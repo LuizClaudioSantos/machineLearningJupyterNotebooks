@@ -10,4 +10,4 @@ This repository is a repository whit self explained Jupyter Notebook about Machi
 
 
 2. Classification
-   * [Logisct Regression](https://github.com/LuizClaudioSantos/machineLearningJupyterNotebooks/blob/master/classification/logistc_regression.ipynb)
+   * [Logistc Regression](https://github.com/LuizClaudioSantos/machineLearningJupyterNotebooks/blob/master/classification/logistc_regression.ipynb)
